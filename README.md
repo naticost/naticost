@@ -27,9 +27,8 @@ Estudante de Análise e Desenvolvimento de Sistemas. Atualmente estagiária na �
 </div>
 
 ### No momento estou estudando:
-![Estatística](https://img.shields.io/badge/Estat%C3%ADstica-0D1117?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAIAAAC0Ujn1AAAACXBIWXMAAAsSAAALEgHS3X78AAABcUlEQVRIDcWVz0tUURTHP1bVVZV3QaJRKIrIBK/URERURTS1dRH8pEYpWECIAjSOJRCCG4lVZaCkUIh7BEBVQUCEgQSmQoSi1YdOb3+XOx2R8d9eznvnjYbZ9x1vv9+mTnOc8zj3njPr8zfPYdfAFJ1D5VNDG5nWWsBiwAlKqj3/GFVMk9gHVJmG4tWSSARQKYqhyIpooSEaMBLgABa8R0A9z1Rzr6juAOAiGQCtzyX+T2AQFC3XMz3s8ZTEwVr5CjDkC8B1SJNtgKSmGdRHXc9B+Wh5sFKwz6pWLB3U7Tm4pnv7yjLX8jHVyqDoBIL+1fJEXjn9eWVc2wVmZkpP6aBxLgHqawEAgy6nfIcjz7YcXwZfWiw6DMhCEBwTq+VxJTMNq1wDfYCqchClcsMvsLmUq4FpALUeyspiAhqwKZfIwD+AwCukKfJO3WnlkF84FkoV3C9jsal9Ar3c1cw22bUkEWQe7BaPd5sBqX02TJ7TkQB4HDJWkRKbLwEBXkUPczWRqqi8nUv/1NS0tBI5yiio/X36/H7ft7e1lfX0dk9PT2NjYzPz8/MTExwBm4D4/lxcXpqbGyW7/4/DgYGBj2EIqAhogFy8tLRkZGRn5+fFhYVouMIQFy9HQPH6cFtRSiGKTpAmz22w9tcNyAAAAAElFTkSuQmCC)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=machinelearning&labelColor=0D1117)&nbsp;
-![Álgebra Linear](https://img.shields.io/badge/%C3%81lgebra_Linear-0D1117?style=for-the-badge&logo=mathworks&labelColor=0D1117)&nbsp;
-
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
+![Programação Orientada a Objetos](https://img.shields.io/badge/Programa%C3%A7%C3%A3o_Orientada_a_Objetos-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
 </div>
