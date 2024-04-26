@@ -27,8 +27,9 @@ Estudante de Análise e Desenvolvimento de Sistemas. Atualmente estagiária na �
 </div>
 
 ### No momento estou estudando:
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
+
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
-![Programação Orientada a Objetos](https://img.shields.io/badge/Programa%C3%A7%C3%A3o_Orientada_a_Objetos-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
+![Introdução à Inteligência Artificial](https://img.shields.io/badge/Introdu%C3%A7%C3%A3o_%C3%A0_Intelig%C3%AAncia_Artificial-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
+
 </div>
