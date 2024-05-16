@@ -26,10 +26,5 @@ Estudante de Análise e Desenvolvimento de Sistemas. Atualmente estagiária na �
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naticost&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
-### No momento estou estudando:
-
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
-![Introdução à Inteligência Artificial](https://img.shields.io/badge/Introdu%C3%A7%C3%A3o_%C3%A0_Intelig%C3%AAncia_Artificial-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 
 </div>
