@@ -2,7 +2,7 @@
 
 <p>natisouza806@gmail.com</p>
 
-Estudante de Análise e Desenvolvimento de Sistemas. Atualmente estagiária na área de Desenvolvimento Mobile. 
+Estudante de Análise e Desenvolvimento de Sistemas. Atualmente estagiária na área de Desenvolvimento Mobile..
 
 <div align="center">
   
