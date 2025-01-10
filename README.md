@@ -4,9 +4,7 @@
 
 ## Hello, Everyone! I'm Natiele Costa!
 
-If you find my profile useful, follow me! <3
-
- I'm a student in Systems Analysis and Development. Currently, I'm a mobile development intern. 
+I have a degree in Systems Analysis and Development. Currently, I work in computational support, where I provide technical assistance for API integrations, database management, and automation tools. 
 
 :computer: Here are the technologies I'm working with:
 
