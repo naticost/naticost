@@ -3,8 +3,7 @@
 # Welcome!
 
 ## Hello, Everyone! I'm Natiele Costa!
-
-I have a degree in Systems Analysis and Development. Currently, I work in computational support, where I provide technical assistance for API integrations, database management, and automation tools. 
+I have a degree in **Systems Analysis and Development**. Currently, I work in **computational support**, providing technical assistance for **API integrations**, **database management**, and **automation tools**.
 
 :computer: Here are the technologies I'm working with:
 
