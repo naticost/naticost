@@ -3,7 +3,11 @@
 # Welcome!
 
 ## Hello, Everyone! I'm Natiele Costa!
-I have a degree in **Systems Analysis and Development**. Currently, I work in **computational support**, providing technical assistance for **API integrations**, **database management**, and **automation tools**.
+Atualmente exerce a função de Analista de Dados Operacionais em uma OSCIP
+em parceria com o Banco da Amazônia, sendo responsável pela análise de
+dados da operação e acompanhamento de 22 unidades. Atua também como
+voluntária no DataGirls, na área de Pesquisa e Desenvolvimento, com foco em
+constante aprimoramento na área de Dados e Analytics..
 
 :computer: Here are the technologies I'm working with:
 
