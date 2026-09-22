@@ -2,8 +2,7 @@
 
 ## Hello, everyone! I'm **Natiele Costa**
 
-Atualmente atuo como **Analista de Dados Operacionais** em uma OSCIP em parceria com o **Banco da Amazônia**, sendo responsável pela análise de dados da operação e pelo acompanhamento de **22 unidades**.
-
+Atualmente atuo como **Analista de Dados e BI** no Grupo Nova Era, sendo responsável pela análise de dados da operação.
 Também atuo como **voluntária no DataGirls**, na área de **Pesquisa e Desenvolvimento**, com foco em aprimoramento contínuo em **Dados, Analytics e Tecnologia**.
 
 Tenho experiência em transformação de dados em informação estratégica, automação de processos e construção de dashboards para apoio à tomada de decisão.
